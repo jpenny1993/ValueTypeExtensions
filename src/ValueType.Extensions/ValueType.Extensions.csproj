@@ -5,7 +5,11 @@
     <Version>0.0.0.1</Version>
     <AssemblyVersion>0.0.0.1</AssemblyVersion>
     <Authors>John Penny</Authors>
-    <Description>A collection of extension method libraries.</Description>
+    <Description>A collection of extension methods.</Description>
+    <PackageLicenseUrl>https://github.com/jpenny1993/ValueTypeExtensions/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/jpenny1993/ValueTypeExtensions</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/jpenny1993/ValueTypeExtensions/master/icon.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/jpenny1993/ValueTypeExtensions</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

@@ -6,6 +6,10 @@
     <AssemblyVersion>0.0.0.1</AssemblyVersion>
     <Authors>John Penny</Authors>
     <Description>Extension methods for DateTimes.</Description>
+    <PackageLicenseUrl>https://github.com/jpenny1993/ValueTypeExtensions/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/jpenny1993/ValueTypeExtensions</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/jpenny1993/ValueTypeExtensions/master/icon.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/jpenny1993/ValueTypeExtensions</RepositoryUrl>
   </PropertyGroup>
 
 
