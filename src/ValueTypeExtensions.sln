@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType.Extensions.Dates", "src\ValueType.Extensions.Dates\ValueType.Extensions.Dates.csproj", "{50FD9239-A1A6-406D-8633-51ADC33AEF66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType.Extensions.Dates", "ValueType.Extensions.Dates\ValueType.Extensions.Dates.csproj", "{50FD9239-A1A6-406D-8633-51ADC33AEF66}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType.Extensions.Enums", "src\ValueType.Extensions.Enums\ValueType.Extensions.Enums.csproj", "{6A34E3A7-DC6D-418D-BB6E-F22E917F586E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType.Extensions.Enums", "ValueType.Extensions.Enums\ValueType.Extensions.Enums.csproj", "{6A34E3A7-DC6D-418D-BB6E-F22E917F586E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType.Extensions.Numbers", "src\ValueType.Extensions.Numbers\ValueType.Extensions.Numbers.csproj", "{6C1D969C-5138-429E-9C99-890E0702413F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType.Extensions.Numbers", "ValueType.Extensions.Numbers\ValueType.Extensions.Numbers.csproj", "{6C1D969C-5138-429E-9C99-890E0702413F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType.Extensions.Text", "src\ValueType.Extensions.Text\ValueType.Extensions.Text.csproj", "{789C93F0-F210-43C2-8B4A-73A11FBB57A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType.Extensions.Text", "ValueType.Extensions.Text\ValueType.Extensions.Text.csproj", "{789C93F0-F210-43C2-8B4A-73A11FBB57A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueType.Extensions.Collections", "src\ValueType.Extensions.Collections\ValueType.Extensions.Collections.csproj", "{8096E26A-2ECC-4F46-A619-7F7865CBA6D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueType.Extensions.Collections", "ValueType.Extensions.Collections\ValueType.Extensions.Collections.csproj", "{8096E26A-2ECC-4F46-A619-7F7865CBA6D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueType.Extensions.Expressions", "src\ValueType.Extensions.Expressions\ValueType.Extensions.Expressions.csproj", "{32FB6B8B-82A0-4DFE-B525-F1A44EB26633}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueType.Extensions.Expressions", "ValueType.Extensions.Expressions\ValueType.Extensions.Expressions.csproj", "{32FB6B8B-82A0-4DFE-B525-F1A44EB26633}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueType.Extensions.Types", "src\ValueType.Extensions.Types\ValueType.Extensions.Types.csproj", "{4A36B52E-2E8A-4BDC-981F-1EFCE64599B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueType.Extensions.Types", "ValueType.Extensions.Types\ValueType.Extensions.Types.csproj", "{4A36B52E-2E8A-4BDC-981F-1EFCE64599B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueType.Extensions.IO", "src\ValueType.Extensions.IO\ValueType.Extensions.IO.csproj", "{8CEE0A27-00C6-4B6A-A0B0-28BF5C15BAC0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueType.Extensions.IO", "ValueType.Extensions.IO\ValueType.Extensions.IO.csproj", "{8CEE0A27-00C6-4B6A-A0B0-28BF5C15BAC0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType.Extensions", "src\ValueType.Extensions\ValueType.Extensions.csproj", "{4D38746F-1D14-4254-8EC8-9C1C2CFD0AC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType.Extensions", "ValueType.Extensions\ValueType.Extensions.csproj", "{4D38746F-1D14-4254-8EC8-9C1C2CFD0AC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
