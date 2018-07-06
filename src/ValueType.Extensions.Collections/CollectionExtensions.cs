@@ -16,7 +16,24 @@
                 collection.Add(item);
             }
         }
+        
+        /// <summary>
+        /// Provides a sliding window of 2 items from a point on an enumerable.
+        /// For more info google F# Seq.Windowed...
+        /// </summary>
+        public static IEnumerable<TResult> Windowed<TSource, TResult>(this IEnumerable<TSource> source, Func<TSource, TSource, TResult> resultSelector)
+        {
+            var previous = default(TSource);
+            using (var it = source.GetEnumerator())
+            {
+                if (it.MoveNext())
+                    previous = it.Current;
 
+                while (it.MoveNext())
+                    yield return resultSelector(previous, previous = it.Current);
+            }
+        } 
+        
         /// <summary>
         /// A method to parse a collection to a DataTable
         /// </summary>
